@@ -1,0 +1,1 @@
+# Consultas-LEFT-e-RIGHT-JOIN
